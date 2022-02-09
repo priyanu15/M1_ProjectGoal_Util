@@ -8,7 +8,8 @@
 * Features of the project :-
 *  It will tell you about the tax cut in various salary range.
 *  It will tell you under which range your tax will not cut accordingly.
-*  
+*  You can add your income and get your calculated tax.
+*  Tell your how much percent of income goes to your tax.
 ## Low Level Requirements
 - How feature is implemented
 - Linkage between high and low level Requirements
@@ -20,4 +21,7 @@
 * Threats:- Will hae some issue if there is an issue or malware.
 ## 4W's and 1H
 * What:- Utility for calculating income tax.
-* When:-
+* When:- 4/02/2022
+* Where:- Using Visual Studio Code and C ompiler.
+* Why:- For making common public convinient to calculate their income tax.
+* How:- By using C language.
