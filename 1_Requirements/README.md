@@ -9,10 +9,13 @@
 *  It will tell you about the tax cut in various salary range.
 *  It will tell you under which range your tax will not cut accordingly.
 *  You can add your income and get your calculated tax.
-*  Tell your how much percent of income goes to your tax.
+*  Tell you how much percent of income goes to your tax.
 ## Low Level Requirements
-- How feature is implemented
-- Linkage between high and low level Requirements
+* The tax calculator will show you the tax cut which makes your life easier by not doing or applying mental maths.
+* The tax brackets help the person to make their investments and saving accordingly planned
+* The tax calculator does not remember any of the incomes which is entered for safety issues.
+* The tax calculator always asks you one thing that is your monthly income which makes it easy to use and handle.
+* It does not require tedious methods or complicated entries to calculate your tax.
 
 ## SWOT Analysis
 * Strength:- tax calculator estimates your year-end tax balance based on your total income and total deductions.
